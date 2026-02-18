@@ -1,3 +1,3 @@
-misjuegos.ddns.net {
-    reverse_proxy api:3000
+indiesapi.ddns.net {
+    reverse_proxy localhost:3000
 }
