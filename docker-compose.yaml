@@ -1,7 +1,7 @@
 services:
   api:
     build: .
-    image: ifc31c-iaw-cognom-nom:v1
+    image: ifc31c-iaw-moragues-francesc:v1
     expose:
       - "3000"
     restart: always
